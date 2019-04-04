@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TTT0209 Digital Leash (C)</string>
+    <string name="text_text_parent_username">Parent Username</string>
+    <string name="text_text_child_username">Child Username</string>
+    <string name="hint_edit_parent_username">Enter Username...</string>
+    <string name="hint_edit_child_username">Enter Username...</string>
+    <string name="height_standard">45dp</string>
+    <string name="text_size_standard">24sp</string>
+    <string name="text_button_report_location">Report Location</string>
+
+</resources>
